@@ -1,0 +1,25 @@
+{
+  "name": "shared-state-engine",
+  "version": "1.0.0",
+  "description": "A multi-user secure datastore with procedures for mutual-verification of data. To be used with a blockchain (Such as Bitcoin or RSK) for payments, asset ownership data, and settlement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmikeska/shared-state-engine.git"
+  },
+  "keywords": [
+    "datachannels",
+    "sharedstate",
+    "bitcoin",
+    "realtime"
+  ],
+  "author": "Greg Mikeska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmikeska/shared-state-engine/issues"
+  },
+  "homepage": "https://github.com/gmikeska/shared-state-engine#readme"
+}
